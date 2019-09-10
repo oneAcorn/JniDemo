@@ -1,0 +1,7 @@
+[
+{
+  "directory": "F:/aswork/JniDemo/JniDemo/app/.externalNativeBuild/cmake/debug/x86",
+  "command": "D:\\kaifa\\android-sdk-windows\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/kaifa/android-sdk-windows/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/kaifa/android-sdk-windows/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c F:\\aswork\\JniDemo\\JniDemo\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "F:\\aswork\\JniDemo\\JniDemo\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

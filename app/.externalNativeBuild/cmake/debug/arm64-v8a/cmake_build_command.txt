@@ -1,0 +1,20 @@
+Executable : D:\kaifa\android-sdk-windows\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HF:\aswork\JniDemo\JniDemo\app\src\main\cpp
+-BF:\aswork\JniDemo\JniDemo\app\.externalNativeBuild\cmake\debug\arm64-v8a
+-DANDROID_ABI=arm64-v8a
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=F:\aswork\JniDemo\JniDemo\app\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=D:\kaifa\android-sdk-windows\ndk-bundle
+-DCMAKE_CXX_FLAGS=
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_SYSTEM_VERSION=16
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=D:\kaifa\android-sdk-windows\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=D:\kaifa\android-sdk-windows\ndk-bundle\build\cmake\android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=D:\kaifa\android-sdk-windows\cmake\3.10.2.4988404\bin\ninja.exe
+jvmArgs : 
+
