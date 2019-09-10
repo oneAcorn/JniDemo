@@ -1,3 +1,9 @@
 # ninja log v5
 0	1005	589824822	CMakeFiles/native-lib.dir/native-lib.cpp.o	e3020968e5faff80
 1007	1282	589824822	F:/aswork/JniDemo/JniDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	28619ae7a0c8a735
+2	112	589826171	CMakeFiles/native-lib.dir/com_acorn_jnidemo_NativeHelper.c.o	4ca1cf20979121dd
+112	273	589826171	F:/aswork/JniDemo/JniDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	a1f4dfe60cfdd78d
+2	416	589826454	CMakeFiles/native-lib.dir/com_acorn_jnidemo_NativeHelper.c.o	4ca1cf20979121dd
+416	585	589826454	F:/aswork/JniDemo/JniDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	a1f4dfe60cfdd78d
+2	128	589826515	CMakeFiles/native-lib.dir/com_acorn_jnidemo_NativeHelper.c.o	4ca1cf20979121dd
+128	295	589826516	F:/aswork/JniDemo/JniDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	a1f4dfe60cfdd78d

@@ -15,12 +15,17 @@
     "native-lib-Release-x86_64": {
       "buildCommand": "D:\\kaifa\\android-sdk-windows\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"F:\\aswork\\JniDemo\\JniDemo\\app\\.externalNativeBuild\\cmake\\release\\x86_64\" --target native-lib",
       "buildType": "release",
-      "toolchain": "1918710561",
+      "toolchain": "4029039294",
       "abi": "x86_64",
       "artifactName": "native-lib",
       "files": [
         {
           "src": "F:\\aswork\\JniDemo\\JniDemo\\app\\src\\main\\cpp\\native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "F:\\aswork\\JniDemo\\JniDemo\\app\\src\\main\\cpp\\com_acorn_jnidemo_NativeHelper.c",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         }
@@ -30,11 +35,14 @@
     }
   },
   "toolchains": {
-    "1918710561": {
+    "4029039294": {
+      "cCompilerExecutable": "D:\\kaifa\\android-sdk-windows\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
       "cppCompilerExecutable": "D:\\kaifa\\android-sdk-windows\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
     }
   },
-  "cFileExtensions": [],
+  "cFileExtensions": [
+    "c"
+  ],
   "cppFileExtensions": [
     "cpp"
   ]

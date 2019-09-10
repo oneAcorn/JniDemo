@@ -1,0 +1,4 @@
+# ninja log v5
+3	149	589826169	CMakeFiles/native-lib.dir/com_acorn_jnidemo_NativeHelper.c.o	dadc8b3b984f2b1
+0	798	589826169	CMakeFiles/native-lib.dir/native-lib.cpp.o	e73b8565443adecf
+800	1029	589826170	F:/aswork/JniDemo/JniDemo/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	73835bfbf8863df2
